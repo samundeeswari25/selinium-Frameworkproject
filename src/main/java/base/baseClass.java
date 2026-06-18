@@ -18,23 +18,6 @@ public class baseClass {
     public static Alert alert;
     public static Robot robot;
 
-    // open the browser
-    public static void openTheBrowser() {
-
-        driver = new ChromeDriver();
-    }
-
-    // maximize
-    public static void maximize() {
-
-        driver.manage().window().maximize();
-    }
-
-    //url
-    public static void url(String url) {
-
-        driver.get(url);
-    }
 
     //Sendkeys
     public static void sendkeys(By locator, String value) {
@@ -95,8 +78,6 @@ public class baseClass {
     }
 
 
-    public static void closethebrowser(){
-        driver.quit();
-    }
+
 
 }

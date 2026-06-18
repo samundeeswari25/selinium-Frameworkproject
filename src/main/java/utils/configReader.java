@@ -9,12 +9,14 @@ public class configReader {
 
     Properties pro;
 
-    public void  configReader() throws IOException {
-        FileInputStream f = new FileInputStream("src/test/resources/config.properties");
+    public   configReader() throws IOException {
 
-        pro = new Properties();
-        pro.load(f);
-    }
+            FileInputStream f = new FileInputStream("src/test/resources/config.properties");
+
+            pro = new Properties();
+            pro.load(f);
+
+}
 
     public String getBrowser(){return pro.getProperty("browser");}
 
