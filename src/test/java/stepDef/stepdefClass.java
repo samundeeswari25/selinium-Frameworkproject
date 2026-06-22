@@ -5,30 +5,35 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.commons.io.FileUtils;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.Before;
+import utils.ExcelManager;
 import utils.ExcelReader;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Map;
 
 public class stepdefClass {
 
-    @When("Enter username and password")
-    public void enter_username_and_password() throws Exception {
+    public static Logger log = LogManager.getLogger(stepdefClass.class);
 
+    @Given("User data{string}")
+    public void user_details(String Testcase) throws IOException {
+        Map<String, String> data =
+                ExcelReader.getData(
+                        "src/test/resources/testData.xlsx",
+                        "Sheet1",
+                        Testcase
+                );
 
-        String username = ExcelReader.getData(1, 0);
-        String password = ExcelReader.getData(1, 1);
-
-        System.out.println(username);
-        System.out.println(password);
+        System.out.println(data);
+        ExcelManager.setTestdata(data);
     }
-    @Given("get url")
-    public void get_url() {
-    }
+}
 
 
-    }
 
 
 

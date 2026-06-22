@@ -11,7 +11,8 @@ import java.io.IOException;
 
 public class DriverFactory {
 
-    public static WebDriver driver;
+
+    private  static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
     public static WebDriver initializeBrowser() throws IOException {
         configReader c = new configReader();
@@ -21,7 +22,7 @@ public class DriverFactory {
 
 
         if (browser.equalsIgnoreCase("chrome")) {
-            driver = new ChromeDriver();
+
             ChromeOptions options = new ChromeOptions();
 
 // Open browser in incognito
@@ -33,25 +34,33 @@ public class DriverFactory {
 // Disable notifications
             options.addArguments("--disable-notifications");
 
+            driver.set(new ChromeDriver(options));
+
         } else if (browser.equalsIgnoreCase("firefox")) {
-            driver = new FirefoxDriver();
+
 
         } else {
             System.out.println("Browser not available");
         }
 
-        driver.manage().window().maximize();
-        driver.get(c.getUrl());
-
-        return driver;
-
+        driver.get().manage().window().maximize();
+        driver.get().get(c.getUrl());
+        return driver.get();
 
     }
 
-    public static void closebrowser(){
-        driver.quit();
+    public static void closeBrowser() {
+        driver.get().quit();
+        driver.remove();
     }
 
 
 
+    public static WebDriver getDriver() {
+       return driver.get();
+    }
+
+    public static void setDriver(WebDriver dri){
+       driver.set(dri);
+    }
 }
