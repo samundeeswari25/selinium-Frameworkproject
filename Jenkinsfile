@@ -33,14 +33,13 @@ pipeline {
 
         stage('Generate Allure Report') {
             steps {
-                bat 'allure generate allure-results --clean -o allure-report'
+               allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
             }
         }
 
-        stage('Archive Reports') {
+        stage('Generate Allure Report') {
             steps {
-                archiveArtifacts artifacts: 'target/*.html', fingerprint: true
-                archiveArtifacts artifacts: 'allure-report/**/*', fingerprint: true
+                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
             }
         }
     }
