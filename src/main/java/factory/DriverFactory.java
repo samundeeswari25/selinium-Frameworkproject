@@ -11,14 +11,18 @@ import java.io.IOException;
 
 public class DriverFactory {
 
+    public static configReader config;
 
-    private  static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
+    private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
     public static WebDriver initializeBrowser() throws IOException {
-        configReader c = new configReader();
+//        configReader c = new configReader();
+        config = new configReader();
 
-        String browser = c.getBrowser();
+        String browser = config.getBrowser();
+        System.out.println("Browser from .env: " + browser);
 
+//        String browser = c.getBrowser();
 
 
         if (browser.equalsIgnoreCase("chrome")) {
@@ -43,11 +47,16 @@ public class DriverFactory {
             System.out.println("Browser not available");
         }
 
-        driver.get().manage().window().maximize();
-        driver.get().get(c.getUrl());
+        driver.get().get(config.getUrl());
+        System.out.println("✅ Opened URL: " + config.getUrl());
+
+
+//        driver.get().manage().window().maximize();
+//        driver.get().get(c.getUrl());
         return driver.get();
 
     }
+
 
     public static void closeBrowser() {
         driver.get().quit();
@@ -61,6 +70,6 @@ public class DriverFactory {
     }
 
     public static void setDriver(WebDriver dri){
-       driver.set(dri);
+       DriverFactory.driver.set(dri);
     }
 }

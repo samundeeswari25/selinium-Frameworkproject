@@ -18,7 +18,6 @@ import java.nio.file.Files;
 import java.time.Duration;
 
 
-
 public class baseClass {
 
     public static Logger log = LogManager.getLogger(baseClass.class);

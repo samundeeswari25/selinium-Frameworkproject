@@ -1,232 +1,76 @@
-2026-06-20 19:54:08 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-20 19:54:08 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-20 19:54:08 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-20 19:54:10 INFO  Hooks.HooksClass - Browser initialized
-2026-06-20 19:54:10 INFO  Hooks.HooksClass - Logger working...
-2026-06-20 19:54:10 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-20 19:54:10 INFO  Hooks.HooksClass - Closing Browser
-2026-06-20 19:58:27 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-20 19:58:27 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-20 19:58:27 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-20 19:58:29 INFO  Hooks.HooksClass - Browser initialized
-2026-06-20 19:58:29 INFO  Hooks.HooksClass - Logger working...
-2026-06-20 19:58:29 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-20 19:58:29 INFO  Hooks.HooksClass - Closing Browser
-2026-06-20 20:05:27 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-20 20:05:27 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-20 20:05:27 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-20 20:05:29 INFO  Hooks.HooksClass - Browser initialized
-2026-06-20 20:05:29 INFO  Hooks.HooksClass - Logger working...
-2026-06-20 20:05:29 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-20 20:05:29 INFO  Hooks.HooksClass - Closing Browser
-2026-06-20 20:06:15 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-20 20:06:15 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-20 20:06:17 INFO  Hooks.HooksClass - Browser initialized
-2026-06-20 20:06:17 INFO  Hooks.HooksClass - Logger working...
-2026-06-20 20:06:17 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-20 20:06:18 INFO  Hooks.HooksClass - Closing Browser
-2026-06-20 20:20:26 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-20 20:20:26 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-20 20:20:26 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-20 20:20:29 INFO  Hooks.HooksClass - Browser initialized
-2026-06-20 20:20:29 INFO  Hooks.HooksClass - Logger working...
-2026-06-20 20:20:29 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-20 20:20:30 INFO  Hooks.HooksClass - Closing Browser
-2026-06-20 20:21:23 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-20 20:21:23 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-20 20:21:23 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-20 20:21:29 INFO  Hooks.HooksClass - Browser initialized
-2026-06-20 20:21:29 INFO  Hooks.HooksClass - Logger working...
-2026-06-20 20:21:29 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-20 20:21:29 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:27:38 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:27:38 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:27:38 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:27:41 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:27:41 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:27:41 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:27:42 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:27:42 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:27:42 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:27:42 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:27:44 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:27:44 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:27:44 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:27:44 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:35:28 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:35:28 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:35:28 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-22 12:35:30 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:35:30 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:35:30 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 12:35:31 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:35:31 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:35:31 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:35:31 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:35:33 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:35:33 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:35:33 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:35:33 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:35:33 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:35:33 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:35:33 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:35:34 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:35:35 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:35:35 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:35:35 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:36:26 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:36:26 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:36:26 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-22 12:36:27 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:36:28 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:36:28 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 12:36:28 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:36:28 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:36:28 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:36:28 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:36:30 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:36:30 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:36:30 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:36:30 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:36:30 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:36:30 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:36:30 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:36:32 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:36:32 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:36:32 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:36:32 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:38:31 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:38:31 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:38:31 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-22 12:38:32 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:38:33 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:38:33 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 12:38:33 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:38:33 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:38:33 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:38:33 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:38:35 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:38:35 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:38:35 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:38:35 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:38:35 INFO  Hooks.HooksClass - Clearing Allure Reports
-2026-06-22 12:38:35 INFO  Hooks.HooksClass - Allure results cleaned
-2026-06-22 12:38:35 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:38:37 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:38:37 INFO  Hooks.HooksClass - Logger working...
-2026-06-22 12:38:37 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:38:37 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:44:25 INFO  Hooks.HooksClass - Starting Scenario: open the browser
-2026-06-22 12:44:27 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:44:27 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 12:44:28 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:44:28 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:44:29 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:44:29 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:44:29 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 12:44:30 INFO  Hooks.HooksClass - Starting Scenario: Logintest
-2026-06-22 12:44:31 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 12:44:31 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 12:44:31 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 14:08:51 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 14:08:51 INFO  base.baseClass - Allure results cleaned
-2026-06-22 14:08:54 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 14:08:55 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 14:08:55 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 14:08:55 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 14:08:55 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 14:57:45 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 14:57:45 INFO  base.baseClass - Allure results cleaned
-2026-06-22 14:57:48 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 14:57:48 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 14:57:49 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 14:57:49 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 14:57:50 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 14:58:13 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 14:58:13 INFO  base.baseClass - Allure results cleaned
-2026-06-22 14:58:16 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 14:58:18 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 14:58:18 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 14:58:18 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 14:58:18 INFO  base.baseClass - Allure results cleaned
-2026-06-22 14:58:20 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 14:58:20 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 14:58:20 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 14:58:20 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 14:58:20 INFO  base.baseClass - Allure results cleaned
-2026-06-22 14:58:22 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 14:58:22 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 14:58:23 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:05:10 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:05:10 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:05:12 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 15:05:12 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 15:05:13 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:05:13 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:07:52 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:07:52 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:07:54 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 15:07:55 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 15:07:57 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:07:57 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:08:36 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:08:36 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:08:39 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 15:08:40 INFO  Hooks.HooksClass - Scenario Passed: open the browser
-2026-06-22 15:08:42 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:08:42 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:10:32 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:10:32 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:10:38 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 15:10:41 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:10:41 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:12:02 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:12:02 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:12:04 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 15:12:07 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:12:07 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:14:55 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:14:55 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:14:57 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 15:14:59 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:15:00 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:19:05 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:19:05 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:19:08 INFO  utils.LoggerUtils - Browser initialized
-2026-06-22 15:19:10 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:19:11 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:25:24 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:25:24 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:25:27 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 15:25:30 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:25:30 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:39:50 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:39:50 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:39:53 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 15:39:55 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:39:56 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 15:39:56 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:39:56 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:39:58 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 15:39:58 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:39:58 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 15:40:28 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:40:28 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:40:30 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 15:40:32 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:40:33 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 15:40:33 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:40:33 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:40:35 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 15:40:35 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:40:35 INFO  Hooks.HooksClass - Closing Browser
-2026-06-22 15:44:09 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:44:09 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:44:11 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 15:44:13 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:44:13 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:44:13 INFO  base.baseClass - Clearing Allure Reports
-2026-06-22 15:44:13 INFO  base.baseClass - Allure results cleaned
-2026-06-22 15:44:15 INFO  Hooks.HooksClass - Browser initialized
-2026-06-22 15:44:15 INFO  Hooks.HooksClass - Scenario Passed: Logintest
-2026-06-22 15:44:15 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-25 14:26:42 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 14:26:42 INFO  base.baseClass - Allure results cleaned
+2026-06-25 14:26:45 INFO  Hooks.HooksClass - Browser initialized
+2026-06-25 14:26:45 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 14:26:46 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 14:26:46 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 14:26:46 INFO  base.baseClass - Allure results cleaned
+2026-06-25 14:26:48 INFO  Hooks.HooksClass - Browser initialized
+2026-06-25 14:26:49 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-25 14:26:49 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-25 15:12:43 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:12:44 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:12:44 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:12:44 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:12:44 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:12:44 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:12:44 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:12:44 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:17:43 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:17:43 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:17:43 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:17:43 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:17:43 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:17:43 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:17:43 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:17:43 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:21:14 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:21:14 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:21:14 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:21:14 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:21:14 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:21:14 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:21:14 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:21:14 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:39:05 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:39:05 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:39:05 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 15:39:05 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 15:39:05 INFO  base.baseClass - Allure results cleaned
+2026-06-25 15:39:05 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 16:02:42 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 16:02:42 INFO  base.baseClass - Allure results cleaned
+2026-06-25 16:02:42 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 16:02:42 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 16:02:42 INFO  base.baseClass - Allure results cleaned
+2026-06-25 16:02:43 ERROR Hooks.HooksClass - Scenario Failed: Logintest
+2026-06-25 16:05:33 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 16:05:33 INFO  base.baseClass - Allure results cleaned
+2026-06-25 16:05:36 INFO  Hooks.HooksClass - Browser initialized
+2026-06-25 16:05:37 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-25 16:05:37 INFO  Hooks.HooksClass - Browser closed.
+2026-06-25 16:05:37 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 16:05:37 INFO  base.baseClass - Allure results cleaned
+2026-06-25 16:05:39 INFO  Hooks.HooksClass - Browser initialized
+2026-06-25 16:05:39 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-25 16:05:39 INFO  Hooks.HooksClass - Browser closed.
+2026-06-25 16:07:21 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 16:07:21 INFO  base.baseClass - Allure results cleaned
+2026-06-25 16:07:23 INFO  Hooks.HooksClass - Browser initialized
+2026-06-25 16:07:24 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-25 16:07:24 INFO  Hooks.HooksClass - Browser closed.
+2026-06-25 16:07:24 INFO  base.baseClass - Clearing Allure Reports
+2026-06-25 16:07:24 INFO  base.baseClass - Allure results cleaned
+2026-06-25 16:07:26 INFO  Hooks.HooksClass - Browser initialized
+2026-06-25 16:07:26 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-25 16:07:26 INFO  Hooks.HooksClass - Browser closed.
+2026-06-28 18:07:15 INFO  base.baseClass - Clearing Allure Reports
+2026-06-28 18:07:15 INFO  base.baseClass - Allure results cleaned
+2026-06-28 18:07:28 INFO  Hooks.HooksClass - Browser initialized
+2026-06-28 18:07:29 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-28 18:07:29 INFO  Hooks.HooksClass - Browser closed.
+2026-06-28 18:07:29 INFO  base.baseClass - Clearing Allure Reports
+2026-06-28 18:07:29 INFO  base.baseClass - Allure results cleaned
+2026-06-28 18:07:31 INFO  Hooks.HooksClass - Browser initialized
+2026-06-28 18:07:31 INFO  Hooks.HooksClass - Scenario Passed: Logintest
+2026-06-28 18:07:31 INFO  Hooks.HooksClass - Browser closed.
