@@ -14,7 +14,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git branch: 'main',
+                git branch: 'master',
                 url: 'https://github.com/samundeeswari25/selinium-Frameworkproject.git'
             }
         }
