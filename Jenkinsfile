@@ -6,10 +6,6 @@ pipeline {
         jdk 'JDK21'
     }
 
-    environment {
-        BROWSER = "chrome"
-    }
-
     stages {
 
         stage('Checkout Code') {
@@ -33,12 +29,6 @@ pipeline {
 
         stage('Generate Allure Report') {
             steps {
-               allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
-            }
-        }
-
-        stage('Generate Allure Report') {
-            steps {
                 allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
             }
         }
@@ -47,9 +37,6 @@ pipeline {
     post {
         always {
             publishHTML([
-                allowMissing: false,
-                alwaysLinkToLastBuild: true,
-                keepAll: true,
                 reportDir: 'target',
                 reportFiles: 'cucumber-report.html',
                 reportName: 'Cucumber Report'
