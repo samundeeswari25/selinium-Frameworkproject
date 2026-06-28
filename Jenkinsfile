@@ -34,14 +34,17 @@ pipeline {
         }
     }
 
-    post {
-        always {
-            publishHTML([
-                reportDir: 'target',
-                reportFiles: 'cucumber-report.html',
-                reportName: 'Cucumber Report'
-            ])
-        }
+   post {
+       always {
+           publishHTML([
+               allowMissing: false,
+               alwaysLinkToLastBuild: true,
+               keepAll: true,
+               reportDir: 'target',
+               reportFiles: 'cucumber-report.html',
+               reportName: 'Cucumber Report'
+           ])
+       }
 
         success {
             echo 'Execution completed successfully'
