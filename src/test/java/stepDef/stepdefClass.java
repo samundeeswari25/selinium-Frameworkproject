@@ -8,6 +8,7 @@ import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Before;
+import page.PageobjectManager;
 import utils.ExcelManager;
 import utils.ExcelReader;
 
@@ -16,6 +17,9 @@ import java.io.IOException;
 import java.util.Map;
 
 public class stepdefClass {
+
+    PageobjectManager pom =
+            new PageobjectManager(DriverFactory.getDriver());
 
     public static Logger log = LogManager.getLogger(stepdefClass.class);
 
