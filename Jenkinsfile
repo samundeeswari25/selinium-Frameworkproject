@@ -34,12 +34,6 @@ pipeline {
         }
     }
 
-    post {
-        always {
-            archiveArtifacts artifacts: 'target/**/*'
-        }
-    }
-
    post {
        always {
            publishHTML([
@@ -50,6 +44,8 @@ pipeline {
                reportFiles: 'cucumber-report.html',
                reportName: 'Cucumber Report'
            ])
+
+            archiveArtifacts artifacts: 'target/**/*'
        }
 
         success {
