@@ -34,6 +34,12 @@ pipeline {
         }
     }
 
+    post {
+        always {
+            archiveArtifacts artifacts: 'target/**/*'
+        }
+    }
+
    post {
        always {
            publishHTML([
