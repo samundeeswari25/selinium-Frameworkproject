@@ -19,11 +19,11 @@ public class configReader {
                 .ignoreIfMissing()
                 .load();
 
-        // ✅ This will print the path so you can verify
-        System.out.println("✅ .env loaded from: " + System.getProperty("user.dir"));
+        //  This will print the path so you can verify
+        System.out.println(" .env loaded from: " + System.getProperty("user.dir"));
 
-        // ✅ This will print the browser value to confirm it's reading correctly
-        System.out.println("✅ Browser value: " + dotenv.get("browser"));
+        //  This will print the browser value to confirm it's reading correctly
+        System.out.println(" Browser value: " + dotenv.get("browser"));
     }
 //            FileInputStream f = new FileInputStream("src/test/resources/config.properties");
 //

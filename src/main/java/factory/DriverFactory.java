@@ -48,7 +48,7 @@ public class DriverFactory {
         }
 
         driver.get().get(config.getUrl());
-        System.out.println("✅ Opened URL: " + config.getUrl());
+        System.out.println(" Opened URL: " + config.getUrl());
 
 
 //        driver.get().manage().window().maximize();
